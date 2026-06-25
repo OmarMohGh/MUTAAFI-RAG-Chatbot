@@ -1,4 +1,4 @@
-# 🤖 MUTAAFI — RAG Chatbot Module
+# 🤖 MUTAAFI RAG Chatbot Module
 
 > **Retrieval-Augmented Generation (RAG) AI Coach for the MUTAAFI Fitness & Nutrition Platform**
 > Part of the [MUTAAFI](https://github.com/MUTAAFI/MUTAAFI-Platform) AI Fitness & Nutrition Platform 
