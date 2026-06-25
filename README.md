@@ -293,22 +293,4 @@ python run_limited_ragas.py
 
 ---
 
-## 🔒 Security Notes
 
-- The `/api/admin/knowledge` endpoint is restricted to `admin@mutaafi.com` only — verified via Supabase JWT.
-- User JWT tokens are never stored server-side; they are decoded per-request.
-- The `.env` file is excluded from version control via `.gitignore`.
-- Allergen safety filtering is applied post-retrieval to protect users with food allergies.
-
----
-
-## 📄 License
-
-This module is part of the **MUTAAFI** senior capstone project (CPCS 499) at **King Abdulaziz University**. All rights reserved.
-
----
-
-## 👥 Authors
-
-- **MUTAAFI Development Team** — CPCS 499 (2025–2026)
-- Contact: [dev@mutaafi.com](mailto:dev@mutaafi.com)
