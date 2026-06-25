@@ -1,8 +1,7 @@
 # 🤖 MUTAAFI — RAG Chatbot Module
 
 > **Retrieval-Augmented Generation (RAG) AI Coach for the MUTAAFI Fitness & Nutrition Platform**
-
-Part of the **MUTAAFI** project — an AI-powered fitness and nutrition platform developed for CPCS 499 (Senior Project).
+> Part of the [MUTAAFI](https://github.com/MUTAAFI/MUTAAFI-Platform) AI Fitness & Nutrition Platform 
 
 ---
 
